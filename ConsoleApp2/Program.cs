@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-           //Actual code starts from below line
+           //Actual code starts from below lines
         }
     }
 }
