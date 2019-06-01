@@ -14,7 +14,7 @@ namespace ConsoleApp2
            //Actual code starts from below lines....
            //checking the operations of sync 
             
-            //code was added in GIT HUB
+            //code was edited in GIT HUB
         
         }
     }
