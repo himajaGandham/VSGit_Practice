@@ -24,6 +24,7 @@ namespace ConsoleApp2
         
             
             //code to call feaure3
+            //code to check synch functionalirt
             
             
         
